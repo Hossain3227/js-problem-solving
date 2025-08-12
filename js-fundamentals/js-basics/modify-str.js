@@ -14,3 +14,4 @@ return front_part + back_part;
 }
 
 console.log(upper_lower("Python"));
+console.log(upper_lower("JAVAScript"));
