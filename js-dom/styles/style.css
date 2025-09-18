@@ -1,0 +1,19 @@
+h1{
+    color: brown;
+}
+.f-container li{
+    color: tomato;
+}
+#f-title{
+    color: black;
+}
+.important-places{
+    color: blueviolet;
+}
+.yellow-bg{
+    /* background-color: yellowgreen !important; */
+    text-align: center;
+}
+.large-text{
+    font-size: 2em;
+}
